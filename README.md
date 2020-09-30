@@ -858,3 +858,4 @@
 [返回目录](#目录)
 
 ### 测试相关
+You can also download python book pdf from here - https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html?m=1. It's totally free.
